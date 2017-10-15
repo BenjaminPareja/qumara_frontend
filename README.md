@@ -1,0 +1,1 @@
+qumara_frontend_android
